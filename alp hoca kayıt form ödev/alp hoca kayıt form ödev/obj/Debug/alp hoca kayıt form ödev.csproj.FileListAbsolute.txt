@@ -1,0 +1,11 @@
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\bin\Debug\alp hoca kayıt form ödev.exe.config
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\bin\Debug\alp hoca kayıt form ödev.exe
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\bin\Debug\alp hoca kayıt form ödev.pdb
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp hoca kayıt form ödev.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp hoca kayıt form ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp_hoca_kayıt_form_ödev.Form1.resources
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp_hoca_kayıt_form_ödev.Properties.Resources.resources
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp hoca kayıt form ödev.csproj.GenerateResource.cache
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp hoca kayıt form ödev.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp hoca kayıt form ödev.exe
+C:\Users\Emirhan\source\repos\alp hoca kayıt form ödev\alp hoca kayıt form ödev\obj\Debug\alp hoca kayıt form ödev.pdb
